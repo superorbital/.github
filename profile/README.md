@@ -6,7 +6,7 @@
 
 _Let our deeply experienced Kubernetes experts supercharge your engineering team._
 
-Our seasoned experts embed within your team as subject matter experts on all things Kubernetes and DevOps. We help them tackle targeted problems and provide the judgement and expertise they need to de-risk high-profile and challenging projects.
+Our seasoned experts embed within your team as subject matter experts on all things Kubernetes and DevOps. We help them tackle targeted problems and provide the judgment and expertise they need to de-risk high-profile and challenging projects.
 
 > "**SuperOrbital was incredible.** They really put in the extra effort to ensure our infrastructure was simple, stable, secure and maintainable. We couldn't be happier!"
 > -- Chris Metcalfe, Co-founder, Hedge

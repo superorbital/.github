@@ -1,4 +1,4 @@
-![superorbital-logo-white-background](https://github.com/superorbital/.github/assets/129629/3ec86a94-8369-455d-bd4b-eb2574e16904)
+<img src="https://github.com/superorbital/.github/assets/129629/3ec86a94-8369-455d-bd4b-eb2574e16904" width="600" height="auto" alt="SuperOrbital LLC logo (Saturn planet silhouette on a white background)">
 
 ### We transform companies through Kubernetes engineering and training.
 

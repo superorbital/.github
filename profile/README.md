@@ -1,4 +1,4 @@
-<img src="https://superorbital.io/img/logo.png" width="600" height="auto">
+![superorbital-logo-white-background](https://github.com/superorbital/.github/assets/129629/3ec86a94-8369-455d-bd4b-eb2574e16904)
 
 ### We transform companies through Kubernetes engineering and training.
 

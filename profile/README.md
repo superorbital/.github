@@ -27,7 +27,7 @@ We don't believe in static, podium-based training. Instead, SuperOrbital courses
 
 We provide a curriculum that covers everything your team needs to go from zero to Kubernetes expert. We tailor each workshop to your team's situation and needs, and we're happy to create custom chapters.
 
-<iframe allow="autoplay; fullscreen" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/497435265"></iframe>
+https://github.com/superorbital/.github/assets/129629/5732c1d5-84bf-4334-ae49-5a093af051db
 
 ### [Core Kubernetes](https://superorbital.io/workshops/core-kubernetes/)
 

@@ -1,6 +1,10 @@
 <img src="https://github.com/superorbital/.github/assets/129629/3ec86a94-8369-455d-bd4b-eb2574e16904" width="600" height="auto" alt="SuperOrbital LLC logo (Saturn planet silhouette on a white background)">
 
-### We transform companies through Kubernetes engineering and training.
+### Beyond Cloud Native.
+
+We're a team of exceptional distributed systems engineers focused on helping your team build modern Kubernetes expertise and deliver successfully on ambitious projects. We partner with you to provide the judgment and experience you need to execute with confidence on critical, high-risk, high-profile assignments.
+
+We tackle the distributed systems problems that no other team can handle.
 
 ## Engineering Services
 
@@ -14,7 +18,7 @@ Our seasoned experts embed within your team as subject matter experts on all thi
 
 [Learn more](https://superorbital.io/engineering/)
 
-## Kubernetes Workshops
+## Kubernetes Training
 
 _Immersive, hands-on, and fully remote_
 
@@ -43,12 +47,11 @@ _Novice to Container Pro_
 Stop trolling Stack Overflow. Go beyond docker run and become a Docker expert.
 
 
-### [Kubernetes In Production](https://superorbital.io/workshops/kubernetes-in-production/)
+### [Kubernetes Resilience](https://superorbital.io/training/kubernetes-resilience/)
 
-_Security & Availability_
+_Availability & Performance_
 
-Expand on the core. Learn how to secure your Kubernetes cluster and ensure the highest availability for your applications.
-
+Learn how to ensure the highest availability and performance for your applications. Compete against the rest of your team in our wargames!
 
 ### [Programming K8s](https://superorbital.io/workshops/programming-kubernetes/)
 
@@ -70,8 +73,6 @@ _Advanced Systems Programming_
 
 Slay the container dragon. Grok the Linux systems programming Docker uses under the hood. Delve into the black arts of namespaces, cgroups, and pivot_root.
 
-
-### [Terraform](https://superorbital.io/workshops/terraform/)
 
 _Provision Your Way to Victory!_
 

@@ -1,6 +1,6 @@
 <img src="https://github.com/superorbital/.github/assets/129629/3ec86a94-8369-455d-bd4b-eb2574e16904" width="600" height="auto" alt="SuperOrbital LLC logo (Saturn planet silhouette on a white background)">
 
-### Beyond Cloud Native.
+# Beyond Cloud Native.
 
 We're a team of exceptional distributed systems engineers focused on helping your team build modern Kubernetes expertise and deliver successfully on ambitious projects. We partner with you to provide the judgment and experience you need to execute with confidence on critical, high-risk, high-profile assignments.
 
